@@ -65,3 +65,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #パスワード導入用
 source 'https://rubygems.org'
 gem 'bcrypt',         '3.1.11'
+
+gem 'bootstrap-sass', '3.3.7'
